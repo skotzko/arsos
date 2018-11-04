@@ -2,12 +2,13 @@
 
 Lots to come in here.
 
-This is Andrew v32.
-
+## Versioning
 Semantic versioning for this is based on my life in `year.month.day` format.
 
 To get the version number use time since I was born on June 20, 1986.](https://www.wolframalpha.com/input/?i=time+since+june+20+1986)
 
+
+### Versioning example
 Example: 2018-11-04 is version 32.4.15
 
 But how do I version over time and OS versions? Maybe I tag them independently and track them in parallel.
