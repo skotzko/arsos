@@ -12,9 +12,8 @@ Example: 2018-11-04 is version 32.4.15
 
 But how do I version over time and OS versions? Maybe I tag them independently and track them in parallel.
 
-One tag is my age. The other tag is what version of my OS this is.
+One tag is my age. The other tag is personal OS version number, ex:
+- Age tag: `32.04.15`
+- OS tag: `0.0.1`
 
 Release notes will be inteersting on this. "Life release notes."
-
-- Age tag: 32.04.15
-- OS tag: 0.0.1
